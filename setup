@@ -178,7 +178,7 @@ show_menus() {
 	echo "~~~~~~~~~~~~~~~~~~~~"
 	echo "1. Setup Witness Node"
 	echo "2. Delete Witness Node"
-	echo "3. View Logs"
+	echo "3. View Logs (Crtl-C to exit)"
 	echo "4. Stop Node"
 	echo "5. Start Node"
 	echo "6. Exit"
